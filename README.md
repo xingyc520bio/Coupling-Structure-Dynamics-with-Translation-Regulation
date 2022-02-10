@@ -6,7 +6,9 @@ Based on SHAPE-map sequencing data and Ribo-seq sequencing data, we studied poss
 栗晨曦：负责代码报告校对与报告的审核
 
 实验报告：Report of Bioinformatics.pdf
+
 代码：script.pdf
+
 报告中提到的附件：
 wt_gene_list.txt
 CR1_3.read_count.HTSeq.txt
